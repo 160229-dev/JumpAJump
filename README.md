@@ -40,13 +40,6 @@ JumpAJump is a polished Qt6 tribute to the viral WeChat mini-game. Charge, jump,
 
 ---
 
-## 🚀 Download & Play
-
-| Asset | Description |
-|-------|-------------|
-| [`JumpAJumpInstaller.exe`](./JumpAJumpInstaller.exe) | Windows installer (64-bit, Qt6 runtime included) |
-| `Source` | Build yourself with CMake + Qt6 |
-
 ### Install
 1. Download `JumpAJumpInstaller.exe` from the [Releases](https://github.com/160229-dev/JumpaJump.git/releases) page.
 2. Run it and follow the wizard.
@@ -103,8 +96,8 @@ Got a new high score? We want to see it!
 *(Add your own screenshots here!)*
 
 ```markdown
-![Gameplay](screenshots/gameplay.png)
-![Game Over](screenshots/gameover.png)
+![Gameover](screenshots/gameplay.png)
+![Gameplay](screenshots/gameover.png)
 ```
 
 ---
