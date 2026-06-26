@@ -1,4 +1,3 @@
-<img width="646" height="763" alt="gameplay" src="https://github.com/user-attachments/assets/377e782c-e518-4e18-8436-8230d10def36" />
 # **JumpAJump**
 
 ```text
