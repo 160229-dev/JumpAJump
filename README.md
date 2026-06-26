@@ -1,4 +1,4 @@
-# **JumpAJump**
+<img width="646" height="763" alt="gameplay" src="https://github.com/user-attachments/assets/37783580-87ec-4bdd-8863-8582b969a987" /># **JumpAJump**
 JumpAJump is a polished Qt6 tribute to the viral WeChat mini-game. Charge, jump, land on the center, and chase your high score with procedural audio and progressive difficulty.
 
 ```text
@@ -84,16 +84,9 @@ Got a new high score? We want to see it!
 
 ---
 
-## 🖼️ Screenshots
 
 
-```markdown
-<img width="646" height="763" alt="gameplay" src="https://github.com/user-attachments/assets/d7a36396-1bff-492b-bb35-2de7a3382f39" />
-<img width="659" height="768" alt="gameover" src="https://github.com/user-attachments/assets/fd89cc29-34e4-4a8a-83b7-d77c599ab95e" />
 
-```
-
----
 
 ## 📄 License
 
