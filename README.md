@@ -63,13 +63,6 @@ JumpAJump is a polished Qt6 tribute to the viral WeChat mini-game. Charge, jump,
 - CMake 3.16+
 - A C++17 compiler (MSVC / MinGW / Clang)
 
-### Build
-```bash
-cd JumpGame
-cmake -S . -B build -DCMAKE_PREFIX_PATH=/path/to/Qt/6.x/your_toolchain -DCMAKE_BUILD_TYPE=Release
-cmake --build build --parallel
-./build/JumpAJump.exe
-```
 
 To create the installer locally, run `windeployqt` on the built executable and use **Qt Installer Framework**'s `binarycreator`:
 ```bash
@@ -93,11 +86,11 @@ Got a new high score? We want to see it!
 
 ## 🖼️ Screenshots
 
-*(Add your own screenshots here!)*
 
 ```markdown
-![Gameover](screenshots/gameplay.png)
-![Gameplay](screenshots/gameover.png)
+<img width="646" height="763" alt="gameplay" src="https://github.com/user-attachments/assets/d7a36396-1bff-492b-bb35-2de7a3382f39" />
+<img width="659" height="768" alt="gameover" src="https://github.com/user-attachments/assets/fd89cc29-34e4-4a8a-83b7-d77c599ab95e" />
+
 ```
 
 ---
