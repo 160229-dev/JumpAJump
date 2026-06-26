@@ -40,7 +40,7 @@
 ---
 
 ### Install
-1. Download `JumpAJumpInstaller.exe` from the [Releases](https://github.com/160229-dev/JumpAJump.git/releases) page.
+1. Download `JumpAJumpInstaller.exe` from the [Releases](https://github.com/160229-dev/JumpAJump/releases) page.
 2. Run it and follow the wizard.
 3. Launch **JumpAJump** from the desktop or Start Menu.
 
